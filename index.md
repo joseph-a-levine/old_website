@@ -38,7 +38,7 @@ the NASA Chief Economist, Air Force Office of Commercial & Economic Analysis, an
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/joseph-a-levine">GitHub</a></li>
-          <li><a href="https://twitter.com/joseph_a_levine">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/joseph_a_levine">Twitter (@joseph_a_levine)</a></li>
       </ul>
   </div>
 </div>
