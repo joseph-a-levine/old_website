@@ -5,7 +5,7 @@ description: Joseph Levine is an economics pre-doc in Sierra Leone.
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-Welcome to my website! I am an economics pre-doc in Sierra Leone, working on a electrification research
+Welcome to my website! I am an economics pre-doc in Sierra Leone, working on an electrification research project
 with Professor Mushfiq Mobarak, Professor Maarten Voors, and Dr. Niccoló Meriggi.
 Previously, I spent two years as a junior aerospace economist for [Bryce Space and Technology](https://brycetech.com/), supporting
 the NASA Chief Economist, Air Force Office of Commercial & Economic Analysis, and commercial space companies.
