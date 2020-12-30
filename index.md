@@ -6,8 +6,8 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
 Welcome to my website! I am an economics pre-doc in Sierra Leone, working on an electrification research project
-with Professor Mushfiq Mobarak, Professor Maarten Voors, and Dr. Niccoló Meriggi.
-Previously, I spent two years as a junior aerospace economist for [Bryce Space and Technology](https://brycetech.com/), supporting
+with Professor Mushfiq Mobarak (Yale University), Professor Maarten Voors (Wageningen University), and Dr. Niccoló Meriggi (IGC).
+Previously, I worked as a junior aerospace economist for [Bryce Space and Technology](https://brycetech.com/), supporting
 the NASA Chief Economist, Air Force Office of Commercial & Economic Analysis, and commercial space companies.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
